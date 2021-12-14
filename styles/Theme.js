@@ -17,7 +17,7 @@ const Fonts = () => {
     styles={`
       @font-face {
         font-family: 'Eldwin';
-        font-style: italic;
+        font-style: normal;
         font-weight: 400;
         font-display: swap;
         src: url('/public/Eldwin-ScriptHeavy.woff2') format('woff2'), url('/public/Eldwin-ScriptHeavy.woff') format('woff');
@@ -26,7 +26,7 @@ const Fonts = () => {
     }
       @font-face {
         font-family: 'Eldwin';
-        font-style: italic;
+        font-style: normal;
         font-weight: 400;
         font-display: swap;
         src: url('/public/Eldwin-ScriptRegular.woff2') format('woff2'), url('/public/Eldwin-ScriptRegular.woff') format('woff');
@@ -35,7 +35,7 @@ const Fonts = () => {
     }
       @font-face {
         font-family: 'Eldwin1';
-        font-style: italic;
+        font-style: normal;
         font-weight: 400;
         font-display: swap;
         src: '/Eldwin-ScriptRegular.otf'
@@ -44,7 +44,7 @@ const Fonts = () => {
     }
       @font-face {
         font-family: 'Eldwin1';
-        font-style: italic;
+        font-style: normal;
         font-weight: 400;
         font-display: swap;
         src: '/Eldwin-ScriptRegular.otf'
